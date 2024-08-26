@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documents\\Code\\CSharp\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|E:\\Documents\\Code\\CSharp\\ToDoList\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|solutionrelative:views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|E:\\Documents\\Code\\CSharp\\ToDoList\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|solutionrelative:views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|E:\\Documents\\Code\\CSharp\\ToDoList\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|solutionrelative:views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Documents\\Code\\CSharp\\ToDoList\\Scripts\\modals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\modals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|E:\\Documents\\Code\\CSharp\\ToDoList\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|E:\\Documents\\Code\\CSharp\\ToDoList\\views\\shared\\_modals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|solutionrelative:views\\shared\\_modals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|e:\\documents\\code\\csharp\\todolist\\views\\tasks\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|solutionrelative:views\\tasks\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|E:\\Documents\\Code\\CSharp\\ToDoList\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|E:\\Documents\\Code\\CSharp\\ToDoList\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|E:\\Documents\\Code\\CSharp\\ToDoList\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|solutionrelative:views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|E:\\Documents\\Code\\CSharp\\ToDoList\\views\\tasks\\_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|solutionrelative:views\\tasks\\_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|E:\\Documents\\Code\\CSharp\\ToDoList\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|solutionrelative:views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Documents\\Code\\CSharp\\ToDoList\\NewSQLQuery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewSQLQuery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|E:\\Documents\\Code\\CSharp\\ToDoList\\models\\tasksmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{691225B0-D6D0-4E70-B44B-35E0293DA1B6}|ToDoList.csproj|solutionrelative:models\\tasksmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "modals.js",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Scripts\\modals.js",
+              "RelativeDocumentMoniker": "Scripts\\modals.js",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Scripts\\modals.js",
+              "RelativeToolTip": "Scripts\\modals.js",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwDQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-26T11:37:58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Modals.cshtml",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Shared\\_Modals.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Modals.cshtml",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Shared\\_Modals.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Modals.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T11:34:03.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Edit.cshtml",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\_Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tasks\\_Edit.cshtml",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\_Edit.cshtml",
+              "RelativeToolTip": "Views\\Tasks\\_Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T11:18:32.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Delete.cshtml",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\_Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tasks\\_Delete.cshtml",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\_Delete.cshtml",
+              "RelativeToolTip": "Views\\Tasks\\_Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T09:18:40.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tasks\\Details.cshtml",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\Details.cshtml",
+              "RelativeToolTip": "Views\\Tasks\\Details.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAxwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T04:56:05.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tasks\\Edit.cshtml",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Tasks\\Edit.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T04:55:55.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tasks\\Index.cshtml",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tasks\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T04:55:14.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAACcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T04:54:21.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tasks\\Create.cshtml",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\Create.cshtml",
+              "RelativeToolTip": "Views\\Tasks\\Create.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T04:47:18.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAmwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:43:10.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.cs",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Models\\Task.cs",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Models\\Task.cs",
+              "RelativeToolTip": "Models\\Task.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:59:29.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tasks\\Delete.cshtml",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Views\\Tasks\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Tasks\\Delete.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T04:56:10.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TasksModel.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\Models\\TasksModel.edmx",
+              "RelativeDocumentMoniker": "Models\\TasksModel.edmx",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\Models\\TasksModel.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\TasksModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-26T04:41:53.013Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewSQLQuery.sql",
+              "DocumentMoniker": "E:\\Documents\\Code\\CSharp\\ToDoList\\NewSQLQuery.sql",
+              "RelativeDocumentMoniker": "NewSQLQuery.sql",
+              "ToolTip": "E:\\Documents\\Code\\CSharp\\ToDoList\\NewSQLQuery.sql",
+              "RelativeToolTip": "NewSQLQuery.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-26T04:40:31.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 99,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
